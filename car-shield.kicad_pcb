@@ -2586,5 +2586,8 @@
   )
 
   (gr_rect (start 106.68 66.04) (end 173.355 130.175) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp 14148b53-e7b6-4534-9cce-50411f75c283))
+  (gr_text "car designed by Freepik" (at 165.1 104.14 90) (layer "F.Paste") (tstamp d06afccd-165e-4d5c-9814-5e05c38cd3f6)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
 
 )

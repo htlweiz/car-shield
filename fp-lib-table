@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name "HTL Weiz Logo")(type "KiCad")(uri "${KIPRJMOD}/htl-weiz-logo.pretty")(options "")(descr ""))
+  (lib (name "car")(type "KiCad")(uri "${KIPRJMOD}/car.pretty")(options "")(descr ""))
 )
