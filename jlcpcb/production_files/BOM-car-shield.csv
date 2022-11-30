@@ -1,0 +1,10 @@
+Comment,Designator,Footprint,LCSC
+red bright,"D8,D9",LED_0603_1608Metric,C2286
+white bright,"D1,D2,D3,D4",LED_0603_1608Metric,C2290
+220,"R1,R2,R5,R6,R8,R9",R_0402_1005Metric,C25091
+680,"R3,R4,R7",R_0402_1005Metric,C25130
+10k,"R10,R11,R12,R13,R14,R15,R16",R_0402_1005Metric,C25744
+orange dim,"D5,D6",LED_0603_1608Metric,C2690338
+SW_SPST,"SW_accel1,SW_decel1,SW_dipped_b1,SW_high_b1,SW_left1,SW_right1,SW_stop1",SW_SPST_TS-1187A,C318884
+blue bright,D7,LED_0603_1608Metric,C72041
+Buzzer,BZ1,Buzzer_15x7.5RM7.6,
